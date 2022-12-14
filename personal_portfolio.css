@@ -107,9 +107,9 @@ table{
     position: fixed;
     bottom: 10px;
     float: right;
-    right: 5%;
-    left: 95%;
-    max-width: 70px;
+    right: 7%;
+    left: 93%;
+    max-width: 84px;
     width: 100%;
     font-size: 12px;
     background: linear-gradient(180deg,#FED54A 0%, #FF9347 100%);
